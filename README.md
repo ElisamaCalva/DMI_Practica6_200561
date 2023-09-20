@@ -13,8 +13,10 @@
 ### Desarrollo Móvil Integral
 
 
-## Screenshot
-img-----------------------
+## Captura de Pantalla
+<p align="center">
+  <img src="./Assets/ejemplo.jpeg" width="200" alt="Captura de Pantalla 1">
+</p>
 
 
 
